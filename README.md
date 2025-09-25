@@ -41,21 +41,21 @@ Monthly trends and year-over-year comparison
 
 🛠 Tech Stack
 
-SQL / MySQL – data preparation & quality checks
+* SQL / MySQL – data preparation & quality checks
 
-Power BI – visualization, DAX calculations, interactive reporting
+* Power BI – visualization, DAX calculations, interactive reporting
 
-Excel / CSV – raw dataset processing
+* Excel / CSV – raw dataset processing
 
 🧠 Skills Demonstrated
 
-SQL joins, aggregations, business queries
+* SQL joins, aggregations, business queries
 
-Power BI data modeling, DAX formulas, KPI design
+* Power BI data modeling, DAX formulas, KPI design
 
-Interactive visuals & dashboard UX design
+* Interactive visuals & dashboard UX design
 
-Data storytelling & insights communication
+* Data storytelling & insights communication
 
 💼 Business Value
 
