@@ -6,11 +6,11 @@ This project showcases a fully interactive Power BI dashboard analyzing mobile d
 
 Before building the dashboard, data was prepared and validated for business use.
 
-✅ Data model → sales, product, and transaction tables linked via keys
-✅ Data quality checks → validation of categories, regions, prices, and transactions
-✅ Business aggregations → revenue by region, model, and payment method
-✅ Time-series analysis → monthly and yearly sales trends
-✅ Advanced calculations → average price, year-over-year comparison, category shares
+✅ Data model → sales, product, and transaction tables linked via keys  
+✅ Data quality checks → validation of categories, regions, prices, and transactions  
+✅ Business aggregations → revenue by region, model, and payment method  
+✅ Time-series analysis → monthly and yearly sales trends  
+✅ Advanced calculations → average price, year-over-year comparison, category shares  
 
 ➡ Result: clean, consistent, and business-ready dataset for Power BI visualization.
 
