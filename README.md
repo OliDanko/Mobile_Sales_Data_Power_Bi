@@ -18,15 +18,15 @@ Before building the dashboard, data was prepared and validated for business use.
 
 The dashboard provides clear and dynamic insights into sales performance:
 
-Total Revenue
+* Total Revenue
 
-Units Sold
+* Units Sold
 
-Transactions
+* Transactions
 
-Average Price
+* Average Price
 
-Sales by Region & Model
+* Sales by Region & Model
 
 Monthly trends and year-over-year comparison
 
