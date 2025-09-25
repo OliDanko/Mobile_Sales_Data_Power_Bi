@@ -32,12 +32,12 @@ Monthly trends and year-over-year comparison
 
 📌 Dashboard Features
 
-✅ 4 KPI Cards – Revenue, Units Sold, Transactions, Average Price
-✅ Sales Map by Region – geographic performance overview
-✅ Year-over-Year Comparison – growth vs. last year
-✅ Sales by Model & Payment Method – category distribution
-✅ Dynamic Filters – time period, region, model, payment method
-✅ Custom UI – clean modern layout with strong visual hierarchy
+✅ 4 KPI Cards – Revenue, Units Sold, Transactions, Average Price  
+✅ Sales Map by Region – geographic performance overview  
+✅ Year-over-Year Comparison – growth vs. last year  
+✅ Sales by Model & Payment Method – category distribution  
+✅ Dynamic Filters – time period, region, model, payment method  
+✅ Custom UI – clean modern layout with strong visual hierarchy  
 
 🛠 Tech Stack
 
