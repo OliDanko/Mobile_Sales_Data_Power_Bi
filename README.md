@@ -59,7 +59,7 @@ Data storytelling & insights communication
 
 💼 Business Value
 
-✔ Identify top-selling products and models
-✔ Compare performance across regions
-✔ Track average mobile price evolution
-✔ Enable faster, data-driven decision making
+✔ Identify top-selling products and models  
+✔ Compare performance across regions  
+✔ Track average mobile price evolution  
+✔ Enable faster, data-driven decision making  
