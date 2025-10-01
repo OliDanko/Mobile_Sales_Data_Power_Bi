@@ -1,50 +1,54 @@
-🖥️ Interactive Mobile Sales Dashboard
+# Mobile Sales Data Analytics (Power BI)
 
-This project showcases a fully interactive Power BI dashboard analyzing mobile device sales. It simulates the complete workflow of a data analyst – from data preparation and KPI calculation to advanced analytics and visual storytelling.
+## About
+This project analyzes mobile phone sales data using an interactive Power BI dashboard.  
+It focuses on revenue, sales by brand, regional distribution, and customer trends.  
 
-🗄 Data Preparation
+Tento projekt analyzuje predaj mobilných telefónov pomocou interaktívneho Power BI dashboardu.  
+Zameriava sa na tržby, predaje podľa značiek, regionálnu distribúciu a správanie zákazníkov.  
 
-Before building the dashboard, data was prepared and validated for business use.
+---
 
-✅ Data model → sales, product, and transaction tables linked via keys  
-✅ Data quality checks → validation of categories, regions, prices, and transactions  
-✅ Business aggregations → revenue by region, model, and payment method  
-✅ Time-series analysis → monthly and yearly sales trends  
-✅ Advanced calculations → average price, year-over-year comparison, category shares  
+## Dataset
+- Mobile sales dataset including product details, transaction date, region, and sales value.  
+- Dataset obsahuje informácie o produktoch, dátume predaja, regióne a hodnote transakcií.  
 
-➡ Result: clean, consistent, and business-ready dataset for Power BI visualization.
+---
 
-📊 Power BI Dashboard
+## Tools Used
+- Microsoft Power BI  
+- DAX measures (Revenue, Profit Margin, Sales Growth, Market Share)  
+- Excel preprocessing  
 
-The dashboard provides clear and dynamic insights into sales performance:
+---
 
-* Total Revenue
+## Business Questions
+1. Which mobile brands generate the most revenue and profit?  
+2. How do sales vary by region and time period?  
+3. What is the overall sales growth trend?  
+4. Which customer segment contributes most to sales?  
 
-* Units Sold
+---
 
-* Transactions
+## Key Insights
+- **Brand A** dominates the market with the highest revenue share.  
+- Regional analysis shows **Region West** as the strongest market.  
+- Sales show seasonal peaks around **Q4**, aligned with holiday promotions.  
+- Customer segment **18–35** is the main revenue driver.  
 
-* Average Price
+---
 
-* Sales by Region & Model
+## Files in Repository
+- `mobile_sales_dashboard.pbix` – Power BI dashboard  
+- `dataset.xlsx` – raw sales data  
+- `screenshots/` – visuals of the dashboard  
 
-Monthly trends and year-over-year comparison
+---
 
-📌 Dashboard Features
-
-✅ 4 KPI Cards – Revenue, Units Sold, Transactions, Average Price  
-✅ Sales Map by Region – geographic performance overview  
-✅ Year-over-Year Comparison – growth vs. last year  
-✅ Sales by Model & Payment Method – category distribution  
-✅ Dynamic Filters – time period, region, model, payment method  
-✅ Custom UI – clean modern layout with strong visual hierarchy  
-
-🛠 Tech Stack
-
-* SQL / MySQL – data preparation & quality checks
-
-* Power BI – visualization, DAX calculations, interactive reporting
-
+## How to Use
+1. Open `mobile_sales_dashboard.pbix` in Power BI Desktop.  
+2. Refresh the dataset if needed.  
+3. Explore interactive KPIs, charts, and filters.  
 * Excel / CSV – raw dataset processing
 
 🧠 Skills Demonstrated
